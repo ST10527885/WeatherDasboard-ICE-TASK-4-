@@ -108,6 +108,4 @@ The code contains numbered `FIX` comments marking corrections made to an earlier
 - Add a loading state and error handling for failed image loads.
 - Add more cities or a search box.
 
-## Notes
 
-- Weather values are demonstration data only and are not real forecasts.
